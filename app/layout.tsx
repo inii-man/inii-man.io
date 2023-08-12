@@ -25,15 +25,15 @@ const graphik = localFont({
 export const metadata: Metadata = {
   metadataBase: new URL('https://leerob.io'),
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Sulaiman Saleh',
+    template: '%s | Sulaiman Saleh',
   },
   description: 'Developer, writer, and creator.',
   openGraph: {
-    title: 'Lee Robinson',
+    title: 'Sulaiman Saleh',
     description: 'Developer, writer, and creator.',
     url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    siteName: 'Sulaiman Saleh',
     locale: 'en-US',
     type: 'website',
   },
